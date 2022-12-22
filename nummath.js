@@ -15,4 +15,4 @@ console.log(--num1);
 console.log("********Using the Math Object********");
 
 console.log(Math.PI);
-console.log(Math.sqrt(num1));
+console.log(Math.sqrt(num1)); 
