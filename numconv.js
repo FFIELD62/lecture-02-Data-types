@@ -19,6 +19,9 @@ console.log("********More Conversion Examples********");
 console.log(parseInt('1.5'));
 console.log(parseInt('1+1'));
 
+//using template literals
+console.log(parseInt(`${1+1}`));
+ 
 console.log("********Converting numbers to string********");
 
 console.log(num1.toString());
